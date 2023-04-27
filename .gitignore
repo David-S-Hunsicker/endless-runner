@@ -1,0 +1,64 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+obj/
+UnityGenerated/
+Build/
+Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+*. suo
+*.tmp
+*.user
+*.userprefs
+*.sln
+*.sln.cache
+*.pdb
+*.unityproj
+*.booproj
+*.orig
+ipch/
+*.aps
+*.resources
+*.pch
+*.vs/
+*.vup
+*.vcpkg/
+.vscode/
+*.vssettings
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# JetBrains generated #
+# ============ #
+.idea/
+*.iml
+
+# ============ #
+# Others       #
+# ============ #
+*.log
+*.txt
+*.md
